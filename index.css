@@ -1,0 +1,65 @@
+.bg-container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .main-heading {
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+  }
+  
+  .label-text {
+    display: block;
+    font-family: "Roboto";
+    font-size: 15px;
+    margin-bottom: 5px;
+  }
+  
+  .temperature {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #c8cfc3;
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  .options {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #c8cfc3;
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .convert-button {
+    text-align: center;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #4caf50;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
+  .result-container {
+    font-family: "Roboto";
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+    color: #000000;
+  }
+  
